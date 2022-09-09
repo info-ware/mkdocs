@@ -7,6 +7,7 @@ RUN pip install mkdocs-material
 RUN pip install mkdocs-markdownextradata-plugin
 RUN pip install md-condition
 RUN pip install markdown-fenced-code-tabs
+RUN pip install mkdocs-mermaid2-plugin
 #RUN mkdocs new infoware
 
 #EXPOSE 8000
